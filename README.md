@@ -13,6 +13,10 @@ First, install Telegram on PI
 - To ssh into my raspberry pi, I had to give SSH permission in the Raspberry PI's Perferrence
 
 To auto start Node-Red (https://nodered.org/docs/getting-started/raspberrypi)
+
+- sudo systemctl enable nodered.service
+- sudo systemctl disable nodered.service
+
 ![image](https://user-images.githubusercontent.com/16104631/201664807-cf14e56d-4e08-4aef-8d28-63dc83d4e1cb.png)
 
 
