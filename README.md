@@ -10,4 +10,5 @@ First, install Telegram on PI
 - The name server IP was 172.26.1.1
 
 - Then I installed node red and mqtt on my raspberry pi by referring to https://www.makeuseof.com/install-mqtt-server-node-red-raspberry-pi-home-automation/
+- To ssh into my raspberry pi, I had to give SSH permission in the Raspberry PI's Perferrence
 
