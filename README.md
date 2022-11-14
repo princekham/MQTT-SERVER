@@ -19,4 +19,4 @@ To auto start Node-Red (https://nodered.org/docs/getting-started/raspberrypi)
 
 ![image](https://user-images.githubusercontent.com/16104631/201664807-cf14e56d-4e08-4aef-8d28-63dc83d4e1cb.png)
 
-
+- to reboot Raspberry Pi 'sudo reboot'
