@@ -12,3 +12,7 @@ First, install Telegram on PI
 - Then I installed node red and mqtt on my raspberry pi by referring to https://www.makeuseof.com/install-mqtt-server-node-red-raspberry-pi-home-automation/
 - To ssh into my raspberry pi, I had to give SSH permission in the Raspberry PI's Perferrence
 
+To auto start Node-Red (https://nodered.org/docs/getting-started/raspberrypi)
+![image](https://user-images.githubusercontent.com/16104631/201664807-cf14e56d-4e08-4aef-8d28-63dc83d4e1cb.png)
+
+
