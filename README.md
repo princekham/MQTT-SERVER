@@ -26,7 +26,7 @@ Setting for MQTT Broker; I has to copy MQTT ID from Tasmota Info.
 
 - to reboot Raspberry Pi 'sudo reboot'
 
-To connect Tasmota to NodeRed : https://flows.nodered.org/node/node-red-contrib-tasmota
-To connect to Telegram : https://flows.nodered.org/node/node-red-contrib-telegrambot
+- To connect Tasmota to NodeRed : https://flows.nodered.org/node/node-red-contrib-tasmota
+- To connect to Telegram : https://flows.nodered.org/node/node-red-contrib-telegrambot
 
 For NodeRed flow, I refer to: https://discourse.nodered.org/t/turn-flow-on-off-via-iphone/8395/16
