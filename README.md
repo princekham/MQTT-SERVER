@@ -20,3 +20,5 @@ To auto start Node-Red (https://nodered.org/docs/getting-started/raspberrypi)
 ![image](https://user-images.githubusercontent.com/16104631/201664807-cf14e56d-4e08-4aef-8d28-63dc83d4e1cb.png)
 
 - to reboot Raspberry Pi 'sudo reboot'
+
+For NodeRed flow, I refer to: https://discourse.nodered.org/t/turn-flow-on-off-via-iphone/8395/16
