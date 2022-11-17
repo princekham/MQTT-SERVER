@@ -19,6 +19,14 @@ To auto start Node-Red (https://nodered.org/docs/getting-started/raspberrypi)
 
 ![image](https://user-images.githubusercontent.com/16104631/201664807-cf14e56d-4e08-4aef-8d28-63dc83d4e1cb.png)
 
+Setting for MQTT Broker; I has to copy MQTT ID from Tasmota Info.
+
+![image](https://user-images.githubusercontent.com/16104631/202504108-1c066da7-9491-4b56-a9c5-46282d4e6646.png)
+
+
 - to reboot Raspberry Pi 'sudo reboot'
+
+To connect Tasmota to NodeRed : https://flows.nodered.org/node/node-red-contrib-tasmota
+To connect to Telegram : https://flows.nodered.org/node/node-red-contrib-telegrambot
 
 For NodeRed flow, I refer to: https://discourse.nodered.org/t/turn-flow-on-off-via-iphone/8395/16
